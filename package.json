@@ -1,0 +1,25 @@
+{
+  "name": "sonpo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^2.2.1",
+    "cheerio": "^1.0.0-rc.3",
+    "consola": "^2.9.0",
+    "fs-extra": "^8.0.1",
+    "iconv-lite": "^0.4.24",
+    "node-filelist": "^1.0.0",
+    "nqdm": "^1.4.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "js-beautify": "^1.10.0",
+    "mocha": "^4.0.1"
+  }
+}
